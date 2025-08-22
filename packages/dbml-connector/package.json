@@ -1,11 +1,11 @@
 {
-  "name": "@pspdfkit-labs/dbml-connector",
+  "name": "@pspdfkit/dbml-connector",
   "version": "3.13.9",
   "description": "This package was created to fetch the schema JSON from many kind of databases.",
   "author": "huy.phung.sw@gmail.com",
   "license": "MIT",
   "homepage": "https://dbml.dbdiagram.io",
-  "repository": "https://github.com/PSPDFKit-labs/dbml",
+  "repository": "https://github.com/PSPDFKit/dbml",
   "publishConfig": {
     "access": "public",
     "registry": "https://npm.pkg.github.com"
